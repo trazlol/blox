@@ -18,7 +18,8 @@ local Config = {
         Separator = "   |   ",             -- Separator between messages
         Messages = {
             "Welcome to BloxxerHub!",
-            "Update 2.1: Added Operation One support; still in development!",
+            "Update 2.1.2: Reworked backend + fixed bugs ",
+            "More planned soon!",
             "have fun!",
         }
     }
