@@ -9,7 +9,7 @@ local Config = {
 
     -- News Ticker Settings
     Ticker = {
-        Enabled = true,
+        Enabled = false,
         Tag = "NEWS",
         Side = "Top",                      -- "Top" or "Bottom"
         Speed = 80,                        -- Scroll speed (pixels per second)
